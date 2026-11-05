@@ -73,6 +73,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rishvanth28/Rishvanth28/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
+
+---
+
 ## Achievements
 
 | Achievement | Year |
